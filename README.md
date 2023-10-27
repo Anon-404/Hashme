@@ -1,2 +1,1 @@
-# Hashme
-Use a strong password by turning your password into a hash
+secure password and txt file by turning into hash.
