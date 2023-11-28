@@ -36,7 +36,7 @@ For arch based linux os
 sudo pacman -Sy python3 -y
 git clone https://github.com/Anon-404/Hashme
 cd Hashme
-sudo pip3 install hashlib
+sudo pacnman -S python-hashlib
 python3 Hashme.py
 ```
 
